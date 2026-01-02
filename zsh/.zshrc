@@ -16,19 +16,30 @@ eval "$(starship init zsh)"
 
 source /usr/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
-# --- Random Fastfetch ASCII Art ---
+# --- Custom Fastfetch Function ---
+fastfetch() {
+    # 1. If you type extra flags (like fastfetch --help), run standard fastfetch
+    if [ $# -gt 0 ]; then
+        command fastfetch "$@"
+        return
+    fi
 
-LOGO_DIR="$HOME/.config/fastfetch/logos"
+    # 2. Random Logo Logic
+    LOGO_DIR="$HOME/.config/fastfetch/logos"
 
-# Find a random file
-RANDOM_LOGO=$(find "$LOGO_DIR" -type f | shuf -n 1)
+    # Find a random file (if directory exists)
+    if [ -d "$LOGO_DIR" ]; then
+        RANDOM_LOGO=$(find "$LOGO_DIR" -type f | shuf -n 1)
+    fi
 
-if [ -f "$RANDOM_LOGO" ]; then
-    fastfetch --logo "$RANDOM_LOGO" --logo-type file --logo-color-1 red --logo-color-2 white
-else
-    fastfetch
-fi
-export PATH="$HOME/.local/bin:$PATH"
+    # 3. Run Fastfetch with the logo
+    if [ -n "$RANDOM_LOGO" ] && [ -f "$RANDOM_LOGO" ]; then
+        # 'command' prevents the function from calling itself recursively
+        command fastfetch --logo "$RANDOM_LOGO" --logo-type file --logo-color-1 red --logo-color-2 white
+    else
+        command fastfetch
+    fi
+}
 
-export PATH=$PATH:/home/oguzhan/.spicetify
-export PATH=$HOME/.spicetify:$PATH
+# Run this function once on terminal startup
+fastfetch
