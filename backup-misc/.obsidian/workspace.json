@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "13dd07eca7dbd70b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3efdca1e1a8928b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73533ac261f4d96a",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a2ba273e3e67653e",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfce95ae229a9894",
+        "type": "tabs",
+        "dimension": 64.73684210526316,
+        "children": [
+          {
+            "id": "0aaaf7d7c82c12e7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "79b8915c855497b6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#roadmap",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "52084a6b83d66660",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1530747a1b7b7dd8",
+        "type": "tabs",
+        "dimension": 35.26315789473684,
+        "children": [
+          {
+            "id": "6ed56dcbeec07b65",
+            "type": "leaf",
+            "state": {
+              "type": "journal-calendar",
+              "state": {},
+              "icon": "calendar-days",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ffa126fdbd510e41",
+    "type": "split",
+    "children": [
+      {
+        "id": "a42536be6cd5f832",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9becaf39e72ea6ba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Formatting/Obsidian Advanced Formatting.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Obsidian Advanced Formatting"
+            }
+          },
+          {
+            "id": "0b98843d9d5acc4e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Formatting/Obsidian Advanced Formatting.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Obsidian Advanced Formatting"
+            }
+          },
+          {
+            "id": "ce5e9d3d92e6497f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1c50cf555245db69",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Formatting/Obsidian Advanced Formatting.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Obsidian Advanced Formatting"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-full-calendar:Open Full Calendar": false
+    }
+  },
+  "active": "73533ac261f4d96a",
+  "lastOpenFiles": [
+    "Daily Notes/09-01-2026.md",
+    "Daily Notes/08-01-2026.md",
+    "Daily Notes/07-01-2026.md",
+    "Daily Notes/06-01-2026.md",
+    "Daily Notes/05-01-2026.md",
+    "Daily Notes/Daily Template.md",
+    "Daily Notes/31-12-2025.md",
+    "Journals/Default Journals/Templates/Daily Notes Template.md",
+    "Journals/Default Journals/01 - Daily/23-02-2025.md",
+    "Daily Notes/Untitled",
+    "Takvim",
+    "Takvim/2026-01-05 bbm416 final.md",
+    "Journals/Dream Journals/01 - Daily/31-12-2025.md",
+    "Daily Notes",
+    "Takvim/2026-01-09 bbm341 final.md",
+    "Takvim/2026-01-08 bbm371 final.md",
+    "Takvim/2026-01-07 bbm301 final.md",
+    "Takvim/2026-01-06 insan hakları final.md",
+    "Journals/Default Journals/01 - Daily/31-12-2025.md",
+    "Takvim",
+    "School/1T-3Y/Machine Learning/Reading list.md",
+    "Formatting/Obsidian Basic Formatting.md",
+    "Ahmet-Oguzhan-Kokulu-CV.pdf",
+    "School/1T-3Y/Machine Learning",
+    "Untitled.base",
+    "School/1T-3Y/Course Schedule.canvas",
+    "Self Improve/Video List.md",
+    "Self Improve/Things to do.md",
+    "Self Improve/Quotes.md",
+    "Quotes.md",
+    "Self Improve/Meditation Routine.md",
+    "Road Map/UX Design.md",
+    "Formatting/Embed Web Page.md",
+    "Exercise Physiology/Calsium Ion fatigue in bodybuilding.md",
+    "Pubmed and studies",
+    "Ideathon fikir/Integrating_AIML_in_Open-RAN_Overcoming_Challenges_and_Seizing_Opportunities-1.pdf",
+    "CV.pdf",
+    "School/2T-2Y/Course Schedule.canvas",
+    "School/2T-2Y/Linear Algebra/determinant0.png",
+    "Roadmap.canvas",
+    "Eisenhower Matrix.canvas"
+  ]
+}

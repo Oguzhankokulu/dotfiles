@@ -1,0 +1,797 @@
+[apps/psensor]
+graph-alpha-channel-enabled=false
+graph-background-alpha=1.0
+graph-background-color='#e8f4e8f4a8f5'
+graph-foreground-color='#000000000000'
+graph-monitoring-duration=20
+graph-update-interval=2
+interface-hide-on-startup=false
+interface-menu-bar-disabled=false
+interface-sensorlist-position=0
+interface-temperature-unit=0
+interface-unity-launcher-count-disabled=false
+interface-window-decoration-disabled=false
+interface-window-divider-pos=378
+interface-window-h=633
+interface-window-keep-below-enabled=false
+interface-window-restore-enabled=true
+interface-window-w=1178
+interface-window-x=407
+interface-window-y=225
+sensor-update-interval=2
+slog-enabled=false
+slog-interval=300
+
+[apps/update-manager]
+first-run=false
+launch-count=16
+launch-time=int64 1766186293
+
+[com/geda/gtkwave]
+dumpfile='out.vcd'
+optimized-vcd='0'
+pwd='/media/oguzhan/AA72C28872C258A9/Users/ahmet/OneDrive/Masaüstü/Masaüstü Dosyalar/Coding Files/Verilog/Verilog Final Project'
+rcfile=''
+savefile=''
+
+[com/mattjakeman/ExtensionManager]
+height=1001
+is-maximized=false
+last-used-version='0.5.0'
+width=510
+
+[com/ubuntu/update-notifier]
+release-check-time=uint32 1767217167
+
+[org/gnome/baobab/ui]
+is-maximized=false
+window-size=(960, 600)
+
+[org/gnome/calculator]
+accuracy=9
+angle-units='degrees'
+base=10
+button-mode='programming'
+number-format='automatic'
+show-thousands=false
+show-zeroes=false
+source-currency=''
+source-units='degree'
+target-currency=''
+target-units='radian'
+window-maximized=false
+window-size=(680, 1001)
+word-size=64
+
+[org/gnome/clocks/state/window]
+maximized=false
+panel-id='world'
+size=(870, 690)
+
+[org/gnome/control-center]
+last-panel='background'
+window-state=(980, 1001, false)
+
+[org/gnome/desktop/a11y/applications]
+screen-magnifier-enabled=false
+screen-reader-enabled=false
+
+[org/gnome/desktop/app-folders]
+folder-children=['Utilities', 'YaST', 'Pardus']
+
+[org/gnome/desktop/app-folders/folders/Pardus]
+categories=['X-Pardus-Apps']
+name='X-Pardus-Apps.directory'
+translate=true
+
+[org/gnome/desktop/app-folders/folders/Utilities]
+apps=['gnome-abrt.desktop', 'gnome-system-log.desktop', 'nm-connection-editor.desktop', 'org.gnome.baobab.desktop', 'org.gnome.Connections.desktop', 'org.gnome.DejaDup.desktop', 'org.gnome.Dictionary.desktop', 'org.gnome.DiskUtility.desktop', 'org.gnome.Evince.desktop', 'org.gnome.FileRoller.desktop', 'org.gnome.fonts.desktop', 'org.gnome.Loupe.desktop', 'org.gnome.seahorse.Application.desktop', 'org.gnome.tweaks.desktop', 'org.gnome.Usage.desktop', 'vinagre.desktop']
+categories=['X-GNOME-Utilities']
+name='X-GNOME-Utilities.directory'
+translate=true
+
+[org/gnome/desktop/app-folders/folders/YaST]
+categories=['X-SuSE-YaST']
+name='suse-yast.directory'
+translate=true
+
+[org/gnome/desktop/background]
+color-shading-type='solid'
+picture-options='zoom'
+picture-uri='file:///home/oguzhan/.local/share/backgrounds/2025-12-31-03-47-27-Black%20Swordsman%20in%20the%20Forest%201920%20x%201080p.jpg'
+picture-uri-dark='file:///home/oguzhan/.local/share/backgrounds/2025-12-31-03-47-27-Black%20Swordsman%20in%20the%20Forest%201920%20x%201080p.jpg'
+primary-color='#000000000000'
+secondary-color='#000000000000'
+
+[org/gnome/desktop/input-sources]
+sources=[('xkb', 'tr')]
+xkb-options=@as []
+
+[org/gnome/desktop/interface]
+color-scheme='prefer-dark'
+document-font-name='Noto Sans 11'
+enable-animations=true
+font-name='Noto Sans 11'
+gtk-theme='Colloid-Green-Dark-Everforest'
+icon-theme='Colloid-Everforest'
+monospace-font-name='Noto Sans 13'
+show-battery-percentage=true
+text-scaling-factor=1.25
+toolkit-accessibility=false
+
+[org/gnome/desktop/notifications]
+application-children=['firefox-firefox', 'psensor', 'snapd-desktop-integration-snapd-desktop-integration', 'org-gnome-terminal-preferences', 'org-gnome-nautilus', 'org-gnome-eog', 'libreoffice-calc', 'libreoffice-writer', 'org-gnome-terminal', 'org-gnome-baobab', 'pycharm-professional-pycharm-professional', 'code-code', 'apport-gtk', 'github-desktop', 'gnome-power-panel', 'org-gnome-shell-extensions', 'discord', 'spotify', 'kitty']
+show-banners=true
+
+[org/gnome/desktop/notifications/application/apport-gtk]
+application-id='apport-gtk.desktop'
+
+[org/gnome/desktop/notifications/application/code-code]
+application-id='code_code.desktop'
+
+[org/gnome/desktop/notifications/application/discord]
+application-id='discord.desktop'
+
+[org/gnome/desktop/notifications/application/firefox-firefox]
+application-id='firefox_firefox.desktop'
+
+[org/gnome/desktop/notifications/application/github-desktop]
+application-id='github-desktop.desktop'
+
+[org/gnome/desktop/notifications/application/gnome-power-panel]
+application-id='gnome-power-panel.desktop'
+
+[org/gnome/desktop/notifications/application/kitty]
+application-id='kitty.desktop'
+
+[org/gnome/desktop/notifications/application/libreoffice-calc]
+application-id='libreoffice_calc.desktop'
+
+[org/gnome/desktop/notifications/application/libreoffice-writer]
+application-id='libreoffice_writer.desktop'
+
+[org/gnome/desktop/notifications/application/org-gnome-baobab]
+application-id='org.gnome.baobab.desktop'
+
+[org/gnome/desktop/notifications/application/org-gnome-eog]
+application-id='org.gnome.eog.desktop'
+
+[org/gnome/desktop/notifications/application/org-gnome-nautilus]
+application-id='org.gnome.Nautilus.desktop'
+
+[org/gnome/desktop/notifications/application/org-gnome-shell-extensions]
+application-id='org.gnome.Shell.Extensions.desktop'
+
+[org/gnome/desktop/notifications/application/org-gnome-terminal-preferences]
+application-id='org.gnome.Terminal.Preferences.desktop'
+
+[org/gnome/desktop/notifications/application/org-gnome-terminal]
+application-id='org.gnome.Terminal.desktop'
+
+[org/gnome/desktop/notifications/application/psensor]
+application-id='psensor.desktop'
+
+[org/gnome/desktop/notifications/application/pycharm-professional-pycharm-professional]
+application-id='pycharm-professional_pycharm-professional.desktop'
+
+[org/gnome/desktop/notifications/application/snapd-desktop-integration-snapd-desktop-integration]
+application-id='snapd-desktop-integration_snapd-desktop-integration.desktop'
+
+[org/gnome/desktop/notifications/application/spotify]
+application-id='spotify.desktop'
+
+[org/gnome/desktop/peripherals/keyboard]
+numlock-state=true
+
+[org/gnome/desktop/peripherals/mouse]
+accel-profile='flat'
+left-handed=false
+natural-scroll=false
+speed=0.03649635036496357
+
+[org/gnome/desktop/peripherals/touchpad]
+speed=0.27737226277372273
+two-finger-scrolling-enabled=true
+
+[org/gnome/desktop/privacy]
+old-files-age=uint32 30
+recent-files-max-age=-1
+
+[org/gnome/desktop/screensaver]
+color-shading-type='solid'
+picture-options='zoom'
+picture-uri='file:///home/oguzhan/.local/share/backgrounds/2025-12-31-03-47-27-Black%20Swordsman%20in%20the%20Forest%201920%20x%201080p.jpg'
+primary-color='#000000000000'
+secondary-color='#000000000000'
+
+[org/gnome/desktop/session]
+idle-delay=uint32 0
+
+[org/gnome/desktop/wm/keybindings]
+move-to-monitor-down=@as []
+move-to-monitor-left=@as []
+move-to-monitor-right=@as []
+move-to-monitor-up=@as []
+move-to-workspace-down=@as []
+move-to-workspace-left=@as []
+move-to-workspace-right=@as []
+move-to-workspace-up=@as []
+switch-applications=@as []
+switch-applications-backward=@as []
+switch-group=@as []
+switch-group-backward=@as []
+switch-panels=@as []
+switch-panels-backward=@as []
+switch-to-workspace-1=['<Alt>1']
+switch-to-workspace-2=['<Alt>2']
+switch-to-workspace-3=['<Alt>3']
+switch-to-workspace-4=['<Alt>4']
+switch-to-workspace-last=@as []
+switch-to-workspace-left=@as []
+switch-to-workspace-right=@as []
+switch-windows=@as []
+switch-windows-backward=@as []
+
+[org/gnome/eog/ui]
+sidebar=true
+
+[org/gnome/evince/default]
+continuous=true
+dual-page=false
+dual-page-odd-left=true
+enable-spellchecking=true
+fullscreen=false
+inverted-colors=false
+show-sidebar=false
+sidebar-page='thumbnails'
+sidebar-size=148
+sizing-mode='free'
+window-ratio=(1.9264331429196249, 1.0808181473044798)
+zoom=0.57754393023830353
+
+[org/gnome/evolution-data-server]
+migrated=true
+
+[org/gnome/gnome-system-monitor]
+current-tab='resources'
+show-dependencies=false
+show-whose-processes='user'
+window-height=1001
+
+[org/gnome/gnome-system-monitor/disktreenew]
+col-6-visible=true
+col-6-width=30
+columns-order=[5]
+sort-col=1
+sort-order=0
+
+[org/gnome/mutter]
+attach-modal-dialogs=false
+dynamic-workspaces=false
+edge-tiling=false
+workspaces-only-on-primary=false
+
+[org/gnome/mutter/keybindings]
+cancel-input-capture=@as []
+toggle-tiled-left=@as []
+toggle-tiled-right=@as []
+
+[org/gnome/mutter/wayland/keybindings]
+restore-shortcuts=@as []
+
+[org/gnome/nautilus/icon-view]
+default-zoom-level='medium'
+
+[org/gnome/nautilus/list-view]
+default-column-order=['name', 'size', 'type', 'owner', 'group', 'permissions', 'date_modified', 'date_accessed', 'date_created', 'recency', 'detailed_type']
+default-visible-columns=['name', 'size', 'date_modified']
+default-zoom-level='medium'
+
+[org/gnome/nautilus/preferences]
+default-folder-viewer='list-view'
+migrated-gtk-settings=true
+search-filter-time-type='last_modified'
+
+[org/gnome/nautilus/window-state]
+initial-size=(890, 1001)
+maximized=false
+
+[org/gnome/nm-applet/eap/10838d80-caeb-349e-ba73-08ed16d4d666]
+ignore-ca-cert=false
+ignore-phase2-ca-cert=false
+
+[org/gnome/nm-applet/eap/34f0cf9b-2a90-4465-9777-96d60f815d4a]
+ignore-ca-cert=true
+ignore-phase2-ca-cert=false
+
+[org/gnome/nm-applet/eap/4cc99321-4e68-4144-af8d-75f46b812d33]
+ignore-ca-cert=true
+ignore-phase2-ca-cert=false
+
+[org/gnome/nm-applet/eap/55a882b6-06b2-4100-a053-a2e48c1d5551]
+ignore-ca-cert=true
+ignore-phase2-ca-cert=false
+
+[org/gnome/nm-applet/eap/6ffbb588-80e1-4574-9ada-6f84db2739cd]
+ignore-ca-cert=true
+ignore-phase2-ca-cert=false
+
+[org/gnome/nm-applet/eap/7d97d447-24ec-4fb5-a26f-e97611c846df]
+ignore-ca-cert=true
+ignore-phase2-ca-cert=false
+
+[org/gnome/nm-applet/eap/917b569e-eb33-4725-bfcb-099663328d87]
+ignore-ca-cert=true
+ignore-phase2-ca-cert=false
+
+[org/gnome/nm-applet/eap/c707b936-0b89-4e3c-ab22-b5c907d10f2f]
+ignore-ca-cert=true
+ignore-phase2-ca-cert=false
+
+[org/gnome/nm-applet/eap/d1a0f9ca-4c75-4c5c-b975-31c9ca553eae]
+ignore-ca-cert=true
+ignore-phase2-ca-cert=false
+
+[org/gnome/nm-applet/eap/d799511c-22bc-4cee-836b-002ab3680b12]
+ignore-ca-cert=true
+ignore-phase2-ca-cert=false
+
+[org/gnome/nm-applet/eap/dcb7b25c-c0c9-4fe7-a65f-651ee058fd68]
+ignore-ca-cert=true
+ignore-phase2-ca-cert=false
+
+[org/gnome/portal/filechooser/github-desktop]
+last-folder-path='/home/oguzhan/Projects/Computer_Vision/drone_detection_trt'
+
+[org/gnome/portal/filechooser/obsidian]
+last-folder-path='/home/oguzhan/Documents/Obsidian/Notes'
+
+[org/gnome/portal/filechooser/org.gnome.Settings]
+last-folder-path='/home/oguzhan/Downloads/black_swordsman_in_the_forest_by_fazal_sama_d9tjole/Black Swordsman in the Forest'
+
+[org/gnome/portal/filechooser/snap.firefox]
+last-folder-path='/home/oguzhan/Downloads'
+
+[org/gnome/power-manager]
+info-history-type='charge'
+info-last-device='/org/freedesktop/UPower/devices/line_power_ACAD'
+info-stats-type='discharge-accuracy'
+
+[org/gnome/settings-daemon/plugins/color]
+night-light-enabled=true
+
+[org/gnome/settings-daemon/plugins/media-keys]
+rotate-video-lock-static=@as []
+
+[org/gnome/settings-daemon/plugins/power]
+sleep-inactive-ac-timeout=3600
+sleep-inactive-ac-type='nothing'
+
+[org/gnome/shell]
+disable-user-extensions=false
+disabled-extensions=['burn-my-windows@schneegans.github.com', 'smart-auto-move@khimaros.com', 'rounded-window-corners@fxgn', 'x11gestures@joseexposito.github.io', 'ding@rastersoft.com', 'mprisLabel@moon-0xff.github.com']
+enabled-extensions=['ubuntu-dock@ubuntu.com', 'tiling-assistant@ubuntu.com', 'blur-my-shell@aunetx', 'search-light@icedman.github.com', 'just-perfection-desktop@just-perfection', 'openbar@neuromorph', 'system-monitor-next@paradoxxx.zero.gmail.com', 'Vitals@CoreCoding.com', 'paperwm@paperwm.github.com', 'dash-to-dock@micxgx.gmail.com', 'hidetopbar@mathieu.bidon.ca', 'user-theme@gnome-shell-extensions.gcampax.github.com', 'mediacontrols@cliffniff.github.com']
+favorite-apps=['firefox_firefox.desktop', 'discord.desktop', 'org.gnome.Nautilus.desktop', 'org.gnome.Terminal.desktop']
+welcome-dialog-last-shown-version='46.0'
+
+[org/gnome/shell/app-switcher]
+current-workspace-only=true
+
+[org/gnome/shell/extensions/blur-my-shell]
+settings-version=2
+
+[org/gnome/shell/extensions/blur-my-shell/appfolder]
+brightness=0.59999999999999998
+sigma=30
+
+[org/gnome/shell/extensions/blur-my-shell/coverflow-alt-tab]
+pipeline='pipeline_default'
+
+[org/gnome/shell/extensions/blur-my-shell/dash-to-dock]
+blur=true
+brightness=0.59999999999999998
+pipeline='pipeline_default_rounded'
+sigma=30
+static-blur=true
+style-dash-to-dock=0
+
+[org/gnome/shell/extensions/blur-my-shell/lockscreen]
+pipeline='pipeline_default'
+
+[org/gnome/shell/extensions/blur-my-shell/overview]
+pipeline='pipeline_default'
+
+[org/gnome/shell/extensions/blur-my-shell/panel]
+brightness=0.59999999999999998
+pipeline='pipeline_default'
+sigma=30
+
+[org/gnome/shell/extensions/blur-my-shell/screenshot]
+pipeline='pipeline_default'
+
+[org/gnome/shell/extensions/blur-my-shell/window-list]
+brightness=0.59999999999999998
+sigma=30
+
+[org/gnome/shell/extensions/burn-my-windows]
+active-profile='/home/oguzhan/.config/burn-my-windows/profiles/1767144151293365.conf'
+last-extension-version=47
+prefs-open-count=3
+
+[org/gnome/shell/extensions/dash-to-dock]
+background-opacity=0.80000000000000004
+dash-max-icon-size=48
+dock-fixed=false
+dock-position='BOTTOM'
+extend-height=false
+height-fraction=0.90000000000000002
+isolate-workspaces=true
+preferred-monitor=-2
+preferred-monitor-by-connector='eDP-1'
+show-mounts-network=false
+
+[org/gnome/shell/extensions/ding]
+check-x11wayland=true
+
+[org/gnome/shell/extensions/just-perfection]
+accessibility-menu=false
+activities-button=true
+calendar=true
+clock-menu=true
+keyboard-layout=true
+quick-settings=true
+quick-settings-dark-mode=true
+theme=false
+weather=true
+workspace-wrap-around=false
+
+[org/gnome/shell/extensions/mediacontrols]
+extension-index=uint32 0
+fixed-label-width=true
+label-width=uint32 250
+labels-order=['TITLE', '-', 'ARTIST']
+scroll-labels=true
+show-track-slider=false
+
+[org/gnome/shell/extensions/openbar]
+autofg-bar=true
+autohg-bar=true
+autotheme-font=false
+balpha=1.0
+bartype='Islands'
+bcolor=['0.208', '0.239', '0.259']
+bg-change=true
+bgalpha=0.0
+bgalpha2=0.69999999999999996
+bguri='file:///home/oguzhan/.local/share/backgrounds/2025-12-31-03-47-27-Black%20Swordsman%20in%20the%20Forest%201920%20x%201080p.jpg'
+bottom-margin=6.5
+bwidth=0.20000000000000001
+candy1=['0.161', '0.149', '0.165']
+candy10=['0.267', '0.337', '0.196']
+candy11=['0.267', '0.337', '0.196']
+candy12=['0.267', '0.337', '0.196']
+candy13=['0.267', '0.337', '0.196']
+candy14=['0.267', '0.337', '0.196']
+candy15=['0.267', '0.337', '0.196']
+candy16=['0.267', '0.337', '0.196']
+candy2=['0.161', '0.149', '0.165']
+candy3=['0.161', '0.149', '0.165']
+candy4=['0.161', '0.149', '0.165']
+candy5=['0.161', '0.149', '0.165']
+candy6=['0.161', '0.149', '0.165']
+candy7=['0.161', '0.149', '0.165']
+candy8=['0.161', '0.149', '0.165']
+candy9=['0.267', '0.337', '0.196']
+candybar=true
+count1=309812
+count10=1144
+count11=23
+count12=15
+count2=98716
+count3=70049
+count4=29391
+count5=19593
+count6=17045
+count7=7544
+count8=5556
+count9=3112
+dark-bcolor=['0.208', '0.239', '0.259']
+dark-bguri='file:///home/oguzhan/.local/share/backgrounds/2025-12-31-03-47-27-Black%20Swordsman%20in%20the%20Forest%201920%20x%201080p.jpg'
+dark-candy1=['0.161', '0.149', '0.165']
+dark-candy10=['0.267', '0.337', '0.196']
+dark-candy11=['0.267', '0.337', '0.196']
+dark-candy12=['0.267', '0.337', '0.196']
+dark-candy13=['0.267', '0.337', '0.196']
+dark-candy14=['0.267', '0.337', '0.196']
+dark-candy15=['0.267', '0.337', '0.196']
+dark-candy16=['0.267', '0.337', '0.196']
+dark-candy2=['0.161', '0.149', '0.165']
+dark-candy3=['0.161', '0.149', '0.165']
+dark-candy4=['0.161', '0.149', '0.165']
+dark-candy5=['0.161', '0.149', '0.165']
+dark-candy6=['0.161', '0.149', '0.165']
+dark-candy7=['0.161', '0.149', '0.165']
+dark-candy8=['0.161', '0.149', '0.165']
+dark-candy9=['0.267', '0.337', '0.196']
+dark-fgcolor=['0.506', '0.608', '0.643']
+dark-mhcolor=['0.267', '0.337', '0.196']
+dark-mscolor=['0.267', '0.337', '0.196']
+dark-palette1=['41', '38', '42']
+dark-palette10=['103', '93', '78']
+dark-palette11=['148', '152', '154']
+dark-palette12=['108', '108', '76']
+dark-palette2=['108', '127', '134']
+dark-palette3=['76', '84', '90']
+dark-palette4=['157', '185', '190']
+dark-palette5=['63', '67', '76']
+dark-palette6=['88', '99', '108']
+dark-palette7=['129', '155', '164']
+dark-palette8=['71', '63', '57']
+dark-palette9=['134', '164', '164']
+default-font='Sans 12'
+fgcolor=['0.506', '0.608', '0.643']
+fitts-widgets=true
+gradient=false
+height=39.0
+import-export=false
+isalpha=0.94999999999999996
+light-bguri='file:///home/oguzhan/.local/share/backgrounds/2025-12-31-03-47-27-Black%20Swordsman%20in%20the%20Forest%201920%20x%201080p.jpg'
+light-palette1=['41', '38', '42']
+light-palette10=['103', '93', '78']
+light-palette11=['148', '152', '154']
+light-palette12=['108', '108', '76']
+light-palette2=['108', '127', '134']
+light-palette3=['76', '84', '90']
+light-palette4=['157', '185', '190']
+light-palette5=['63', '67', '76']
+light-palette6=['88', '99', '108']
+light-palette7=['129', '155', '164']
+light-palette8=['71', '63', '57']
+light-palette9=['134', '164', '164']
+margin=0.0
+mhcolor=['0.267', '0.337', '0.196']
+monitor-height=1080
+monitor-width=1920
+mscolor=['0.267', '0.337', '0.196']
+neon=true
+palette1=['41', '38', '42']
+palette10=['103', '93', '78']
+palette11=['148', '152', '154']
+palette12=['108', '108', '76']
+palette2=['108', '127', '134']
+palette3=['76', '84', '90']
+palette4=['157', '185', '190']
+palette5=['63', '67', '76']
+palette6=['88', '99', '108']
+palette7=['129', '155', '164']
+palette8=['71', '63', '57']
+palette9=['134', '164', '164']
+pause-reload=false
+reloadstyle=false
+set-bottom-margin=false
+set-notif-position=true
+set-overview=false
+shadow=false
+trigger-reload=true
+wmaxbar=false
+
+[org/gnome/shell/extensions/paperwm]
+disable-scratch-in-overview=false
+disable-topbar-styling=false
+gesture-enabled=false
+last-used-display-server='Xorg'
+only-scratch-in-overview=false
+open-window-position=1
+restore-attach-modal-dialogs='true'
+restore-edge-tiling='false'
+restore-keybinds='{"cancel-input-capture":{"bind":"[\\"<Super><Shift>Escape\\"]","schema_id":"org.gnome.mutter.keybindings"},"restore-shortcuts":{"bind":"[\\"<Super>Escape\\"]","schema_id":"org.gnome.mutter.wayland.keybindings"},"switch-to-workspace-last":{"bind":"[\\"<Super>End\\"]","schema_id":"org.gnome.desktop.wm.keybindings"},"switch-panels":{"bind":"[\\"<Control><Alt>Tab\\"]","schema_id":"org.gnome.desktop.wm.keybindings"},"switch-group-backward":{"bind":"[\\"<Shift><Super>Above_Tab\\",\\"<Shift><Alt>Above_Tab\\"]","schema_id":"org.gnome.desktop.wm.keybindings"},"move-to-monitor-left":{"bind":"[\\"<Super><Shift>Left\\"]","schema_id":"org.gnome.desktop.wm.keybindings"},"move-to-monitor-down":{"bind":"[\\"<Super><Shift>Down\\"]","schema_id":"org.gnome.desktop.wm.keybindings"},"switch-to-workspace-left":{"bind":"[\\"<Super>Page_Up\\",\\"<Super><Alt>Left\\",\\"<Control><Alt>Left\\"]","schema_id":"org.gnome.desktop.wm.keybindings"},"switch-group":{"bind":"[\\"<Super>Above_Tab\\",\\"<Alt>Above_Tab\\"]","schema_id":"org.gnome.desktop.wm.keybindings"},"move-to-workspace-left":{"bind":"[\\"<Super><Shift>Page_Up\\",\\"<Super><Shift><Alt>Left\\",\\"<Control><Shift><Alt>Left\\"]","schema_id":"org.gnome.desktop.wm.keybindings"},"move-to-workspace-right":{"bind":"[\\"<Super><Shift>Page_Down\\",\\"<Super><Shift><Alt>Right\\",\\"<Control><Shift><Alt>Right\\"]","schema_id":"org.gnome.desktop.wm.keybindings"},"switch-panels-backward":{"bind":"[\\"<Shift><Control><Alt>Tab\\"]","schema_id":"org.gnome.desktop.wm.keybindings"},"move-to-workspace-up":{"bind":"[\\"<Control><Shift><Alt>Up\\"]","schema_id":"org.gnome.desktop.wm.keybindings"},"switch-to-workspace-right":{"bind":"[\\"<Super>Page_Down\\",\\"<Super><Alt>Right\\",\\"<Control><Alt>Right\\"]","schema_id":"org.gnome.desktop.wm.keybindings"},"move-to-workspace-down":{"bind":"[\\"<Control><Shift><Alt>Down\\"]","schema_id":"org.gnome.desktop.wm.keybindings"},"switch-applications":{"bind":"[\\"<Super>Tab\\"]","schema_id":"org.gnome.desktop.wm.keybindings"},"switch-windows":{"bind":"[\\"<Alt>Tab\\"]","schema_id":"org.gnome.desktop.wm.keybindings"},"move-to-monitor-right":{"bind":"[\\"<Super><Shift>Right\\"]","schema_id":"org.gnome.desktop.wm.keybindings"},"switch-applications-backward":{"bind":"[\\"<Shift><Super>Tab\\"]","schema_id":"org.gnome.desktop.wm.keybindings"},"switch-windows-backward":{"bind":"[\\"<Shift><Alt>Tab\\"]","schema_id":"org.gnome.desktop.wm.keybindings"},"move-to-monitor-up":{"bind":"[\\"<Super><Shift>Up\\"]","schema_id":"org.gnome.desktop.wm.keybindings"},"shift-overview-up":{"bind":"[\\"<Super><Alt>Up\\"]","schema_id":"org.gnome.shell.keybindings"},"shift-overview-down":{"bind":"[\\"<Super><Alt>Down\\"]","schema_id":"org.gnome.shell.keybindings"},"focus-active-notification":{"bind":"[\\"<Super>n\\"]","schema_id":"org.gnome.shell.keybindings"},"toggle-message-tray":{"bind":"[\\"<Super>v\\",\\"<Super>m\\"]","schema_id":"org.gnome.shell.keybindings"},"rotate-video-lock-static":{"bind":"[\\"<Super>o\\",\\"XF86RotationLockToggle\\"]","schema_id":"org.gnome.settings-daemon.plugins.media-keys"},"tile-left-half":{"bind":"[\\"<Super>Left\\",\\"<Super>KP_4\\"]","schema_id":"org.gnome.shell.extensions.tiling-assistant"},"tile-right-half":{"bind":"[\\"<Super>Right\\",\\"<Super>KP_6\\"]","schema_id":"org.gnome.shell.extensions.tiling-assistant"},"restore-window":{"bind":"[\\"<Super>Down\\"]","schema_id":"org.gnome.shell.extensions.tiling-assistant"},"tile-maximize":{"bind":"[\\"<Super>Up\\",\\"<Super>KP_5\\"]","schema_id":"org.gnome.shell.extensions.tiling-assistant"}}'
+restore-workspaces-only-on-primary='true'
+selection-border-size=16
+show-focus-mode-icon=false
+show-open-position-icon=false
+show-window-position-bar=false
+show-workspace-indicator=false
+use-default-background=true
+
+[org/gnome/shell/extensions/paperwm/keybindings]
+drift-left=['<Super>gbreve']
+drift-right=['<Super>udiaeresis']
+resize-h-dec=['<Shift><Super>KP_Subtract']
+resize-h-inc=['<Shift><Super>KP_Add']
+resize-w-dec=['<Super>KP_Subtract']
+resize-w-inc=['<Super>KP_Add']
+
+[org/gnome/shell/extensions/paperwm/workspaces]
+list=['4746f892-70bc-4451-807b-8f6c55859bac', '69927a46-63ca-43f2-a17a-579f3838c6ff', 'c690f51f-6829-4b4a-bf49-9d7cff639d47', 'd996d12b-c765-4464-b936-bc02f3682f57']
+
+[org/gnome/shell/extensions/paperwm/workspaces/4746f892-70bc-4451-807b-8f6c55859bac]
+color='rgb(38,162,105)'
+index=0
+show-position-bar=true
+show-top-bar=true
+
+[org/gnome/shell/extensions/paperwm/workspaces/69927a46-63ca-43f2-a17a-579f3838c6ff]
+background=''
+color='rgb(38,162,105)'
+index=1
+
+[org/gnome/shell/extensions/paperwm/workspaces/c690f51f-6829-4b4a-bf49-9d7cff639d47]
+background=''
+color='rgb(38,162,105)'
+index=2
+
+[org/gnome/shell/extensions/paperwm/workspaces/d996d12b-c765-4464-b936-bc02f3682f57]
+background=''
+color='rgb(38,162,105)'
+index=3
+
+[org/gnome/shell/extensions/rounded-window-corners-reborn]
+settings-version=uint32 7
+
+[org/gnome/shell/extensions/search-light]
+animation-speed=100.0
+background-color=(0.0, 0.0, 0.0, 0.25)
+blur-background=false
+blur-brightness=0.59999999999999998
+blur-sigma=30.0
+border-thickness=0
+entry-font-size=1
+monitor-count=1
+popup-at-cursor-monitor=false
+preferred-monitor=0
+scale-height=0.10000000000000001
+scale-width=0.10000000000000001
+shortcut-search=['<Control>space']
+show-panel-icon=false
+window-effect=0
+
+[org/gnome/shell/extensions/smart-auto-move]
+activate-workspace=true
+debug-logging=false
+freeze-saves=false
+ignore-position=false
+ignore-workspace=false
+match-threshold=0.69999999999999996
+overrides='{"Code":[{"action":0,"threshold":0.7}]}'
+save-frequency=1000
+saved-windows="{\"Code\":[{\"id\":3992864139,\"hash\":3992864139,\"sequence\":119,\"title\":\"● b2220356053.ipynb - Fourth_Assignment - Visual Studio Code\",\"workspace\":1,\"maximized\":3,\"fullscreen\":false,\"above\":false,\"monitor\":0,\"on_all_workspaces\":false,\"x\":66,\"y\":40,\"width\":1854,\"height\":1040,\"occupied\":false}],\"Gnome-terminal\":[{\"id\":3774699473,\"hash\":3774699473,\"sequence\":199,\"title\":\"~\",\"workspace\":2,\"maximized\":0,\"fullscreen\":false,\"above\":false,\"monitor\":0,\"on_all_workspaces\":false,\"x\":116,\"y\":90,\"width\":974,\"height\":673,\"occupied\":false},{\"id\":2638778336,\"hash\":2638778336,\"sequence\":16,\"title\":\"oguzhan@oguzhan-laptop: ~/Downloads/Hatter-main\",\"workspace\":2,\"maximized\":0,\"fullscreen\":false,\"above\":false,\"monitor\":0,\"on_all_workspaces\":false,\"x\":86,\"y\":60,\"width\":1814,\"height\":967,\"occupied\":false},{\"id\":1571226401,\"hash\":1571226401,\"sequence\":28,\"title\":\"oguzhan@oguzhan-laptop: ~\",\"workspace\":2,\"maximized\":0,\"fullscreen\":false,\"above\":false,\"monitor\":0,\"on_all_workspaces\":false,\"x\":53,\"y\":59,\"width\":1814,\"height\":994,\"occupied\":false},{\"id\":1571226443,\"hash\":1571226443,\"sequence\":70,\"title\":\"oguzhan@oguzhan-laptop: ~\",\"workspace\":0,\"maximized\":0,\"fullscreen\":false,\"above\":false,\"monitor\":0,\"on_all_workspaces\":false,\"x\":26,\"y\":60,\"width\":1874,\"height\":994,\"occupied\":false},{\"id\":1571226442,\"hash\":1571226442,\"sequence\":69,\"title\":\"oguzhan@oguzhan-laptop: ~\",\"workspace\":0,\"maximized\":0,\"fullscreen\":false,\"above\":false,\"monitor\":0,\"on_all_workspaces\":false,\"x\":20,\"y\":60,\"width\":1874,\"height\":994,\"occupied\":false},{\"id\":1571226444,\"hash\":1571226444,\"sequence\":71,\"title\":\"oguzhan@oguzhan-laptop: ~\",\"workspace\":0,\"maximized\":0,\"fullscreen\":false,\"above\":false,\"monitor\":0,\"on_all_workspaces\":false,\"x\":20,\"y\":60,\"width\":974,\"height\":292,\"occupied\":false},{\"id\":1571226445,\"hash\":1571226445,\"sequence\":72,\"title\":\"oguzhan@oguzhan-laptop: ~\",\"workspace\":0,\"maximized\":0,\"fullscreen\":false,\"above\":false,\"monitor\":0,\"on_all_workspaces\":false,\"x\":20,\"y\":60,\"width\":974,\"height\":994,\"occupied\":false},{\"id\":1571226446,\"hash\":1571226446,\"sequence\":73,\"title\":\"oguzhan@oguzhan-laptop: ~\",\"workspace\":0,\"maximized\":0,\"fullscreen\":false,\"above\":false,\"monitor\":0,\"on_all_workspaces\":false,\"x\":20,\"y\":526,\"width\":974,\"height\":211,\"occupied\":false},{\"id\":425019441,\"hash\":425019441,\"sequence\":5,\"title\":\"Terminal\",\"workspace\":2,\"maximized\":0,\"fullscreen\":false,\"above\":false,\"monitor\":0,\"on_all_workspaces\":false,\"x\":1128,\"y\":59,\"width\":1874,\"height\":985,\"occupied\":false}],\"firefox_firefox\":[{\"id\":4178591589,\"hash\":4178591589,\"sequence\":2,\"title\":\"(1) How Police Captured Colorado's Smartest Killer - YouTube — Mozilla Firefox\",\"workspace\":0,\"maximized\":3,\"fullscreen\":false,\"above\":false,\"monitor\":0,\"on_all_workspaces\":false,\"x\":66,\"y\":40,\"width\":1854,\"height\":1040,\"occupied\":false},{\"id\":2281436135,\"hash\":2281436135,\"sequence\":2,\"title\":\"Neovim Learning Time — Mozilla Firefox\",\"workspace\":0,\"maximized\":0,\"fullscreen\":false,\"above\":false,\"monitor\":0,\"on_all_workspaces\":false,\"x\":1845,\"y\":60,\"width\":1814,\"height\":1000,\"occupied\":false},{\"id\":300936004,\"hash\":300936004,\"sequence\":2,\"title\":\"(2) Linus x Linus - Is AI A Bubble? - YouTube — Mozilla Firefox\",\"workspace\":0,\"maximized\":0,\"fullscreen\":false,\"above\":false,\"monitor\":0,\"on_all_workspaces\":false,\"x\":20,\"y\":60,\"width\":1880,\"height\":1000,\"occupied\":false},{\"id\":3393241119,\"hash\":3393241119,\"sequence\":2,\"title\":\"Neovim Learning Time — Mozilla Firefox\",\"workspace\":0,\"maximized\":0,\"fullscreen\":false,\"above\":false,\"monitor\":0,\"on_all_workspaces\":false,\"x\":53,\"y\":60,\"width\":1814,\"height\":1000,\"occupied\":false},{\"id\":1571226375,\"hash\":1571226375,\"sequence\":2,\"title\":\"paperwm/PaperWM: Tiled scrollable window management for GNOME Shell — Mozilla Firefox\",\"workspace\":0,\"maximized\":0,\"fullscreen\":false,\"above\":false,\"monitor\":0,\"on_all_workspaces\":false,\"x\":1845,\"y\":60,\"width\":1880,\"height\":1000,\"occupied\":false},{\"id\":1571226428,\"hash\":1571226428,\"sequence\":55,\"title\":\"Neovim Learning Time — Mozilla Firefox\",\"workspace\":0,\"maximized\":0,\"fullscreen\":false,\"above\":false,\"monitor\":0,\"on_all_workspaces\":false,\"x\":20,\"y\":59,\"width\":1880,\"height\":1001,\"occupied\":false},{\"id\":2150323223,\"hash\":2150323223,\"sequence\":6,\"title\":\"Neovim Learning Time — Mozilla Firefox\",\"workspace\":0,\"maximized\":0,\"fullscreen\":false,\"above\":false,\"monitor\":0,\"on_all_workspaces\":false,\"x\":53,\"y\":59,\"width\":1814,\"height\":1001,\"occupied\":false},{\"id\":425019446,\"hash\":425019446,\"sequence\":10,\"title\":\"Neovim Learning Time — Mozilla Firefox\",\"workspace\":0,\"maximized\":0,\"fullscreen\":false,\"above\":false,\"monitor\":0,\"on_all_workspaces\":false,\"x\":53,\"y\":59,\"width\":1814,\"height\":1001,\"occupied\":false},{\"id\":245238399,\"hash\":245238399,\"sequence\":11,\"title\":\"Neovim Learning Time — Mozilla Firefox\",\"workspace\":0,\"maximized\":3,\"fullscreen\":false,\"above\":false,\"monitor\":0,\"on_all_workspaces\":false,\"x\":0,\"y\":39,\"width\":1920,\"height\":1041,\"occupied\":true}],\"extension-manager\":[{\"id\":245238409,\"hash\":245238409,\"sequence\":21,\"title\":\"Extension Manager\",\"workspace\":0,\"maximized\":0,\"fullscreen\":false,\"above\":false,\"monitor\":0,\"on_all_workspaces\":false,\"x\":926,\"y\":59,\"width\":974,\"height\":1001,\"occupied\":true}],\"org.gnome.Shell.Extensions\":[{\"id\":4178591606,\"hash\":4178591606,\"sequence\":19,\"title\":\"Smart Auto Move\",\"workspace\":0,\"maximized\":0,\"fullscreen\":false,\"above\":false,\"monitor\":0,\"on_all_workspaces\":false,\"x\":216,\"y\":190,\"width\":640,\"height\":576,\"occupied\":false},{\"id\":1571226449,\"hash\":1571226449,\"sequence\":76,\"title\":\"PaperWM\",\"workspace\":0,\"maximized\":0,\"fullscreen\":false,\"above\":false,\"monitor\":0,\"on_all_workspaces\":false,\"x\":20,\"y\":60,\"width\":710,\"height\":1000,\"occupied\":false},{\"id\":300936018,\"hash\":300936018,\"sequence\":16,\"title\":\"Blur my Shell\",\"workspace\":0,\"maximized\":0,\"fullscreen\":false,\"above\":false,\"monitor\":0,\"on_all_workspaces\":false,\"x\":906,\"y\":60,\"width\":640,\"height\":1000,\"occupied\":false},{\"id\":300936033,\"hash\":300936033,\"sequence\":31,\"title\":\"Search Light\",\"workspace\":0,\"maximized\":0,\"fullscreen\":false,\"above\":false,\"monitor\":0,\"on_all_workspaces\":false,\"x\":440,\"y\":60,\"width\":640,\"height\":1000,\"occupied\":false},{\"id\":254621191,\"hash\":254621191,\"sequence\":76,\"title\":\"Media Controls\",\"workspace\":0,\"maximized\":0,\"fullscreen\":false,\"above\":false,\"monitor\":0,\"on_all_workspaces\":false,\"x\":86,\"y\":60,\"width\":640,\"height\":1000,\"occupied\":false},{\"id\":300936021,\"hash\":300936021,\"sequence\":19,\"title\":\"Burn-My-Windows 47\",\"workspace\":0,\"maximized\":0,\"fullscreen\":false,\"above\":false,\"monitor\":0,\"on_all_workspaces\":false,\"x\":20,\"y\":60,\"width\":650,\"height\":1000,\"occupied\":false},{\"id\":300936023,\"hash\":300936023,\"sequence\":21,\"title\":\"Just Perfection\",\"workspace\":0,\"maximized\":0,\"fullscreen\":false,\"above\":false,\"monitor\":0,\"on_all_workspaces\":false,\"x\":20,\"y\":60,\"width\":640,\"height\":1000,\"occupied\":false},{\"id\":300936032,\"hash\":300936032,\"sequence\":30,\"title\":\"Vitals\",\"workspace\":0,\"maximized\":0,\"fullscreen\":false,\"above\":false,\"monitor\":0,\"on_all_workspaces\":false,\"x\":20,\"y\":60,\"width\":770,\"height\":1000,\"occupied\":false},{\"id\":245238404,\"hash\":245238404,\"sequence\":16,\"title\":\"Open Bar\",\"workspace\":0,\"maximized\":0,\"fullscreen\":false,\"above\":false,\"monitor\":0,\"on_all_workspaces\":false,\"x\":20,\"y\":59,\"width\":957,\"height\":1001,\"occupied\":false},{\"id\":1571226528,\"hash\":1571226528,\"sequence\":155,\"title\":\"Dash to Dock\",\"workspace\":0,\"maximized\":0,\"fullscreen\":false,\"above\":false,\"monitor\":0,\"on_all_workspaces\":false,\"x\":20,\"y\":59,\"width\":697,\"height\":1001,\"occupied\":false}],\"gnome-control-center\":[{\"id\":254621193,\"hash\":254621193,\"sequence\":78,\"title\":\"Settings\",\"workspace\":0,\"maximized\":0,\"fullscreen\":false,\"above\":false,\"monitor\":0,\"on_all_workspaces\":false,\"x\":86,\"y\":60,\"width\":980,\"height\":929,\"occupied\":false}],\"org.gnome.Nautilus\":[{\"id\":2638778465,\"hash\":2638778465,\"sequence\":145,\"title\":\"Black Swordsman in the Forest\",\"workspace\":0,\"maximized\":0,\"fullscreen\":false,\"above\":false,\"monitor\":0,\"on_all_workspaces\":false,\"x\":548,\"y\":60,\"width\":890,\"height\":1000,\"occupied\":false},{\"id\":2150323293,\"hash\":2150323293,\"sequence\":76,\"title\":\".config\",\"workspace\":0,\"maximized\":0,\"fullscreen\":false,\"above\":false,\"monitor\":0,\"on_all_workspaces\":false,\"x\":20,\"y\":59,\"width\":890,\"height\":1001,\"occupied\":false},{\"id\":2638778408,\"hash\":2638778408,\"sequence\":88,\"title\":\"Hatter-main\",\"workspace\":0,\"maximized\":0,\"fullscreen\":false,\"above\":false,\"monitor\":0,\"on_all_workspaces\":false,\"x\":1010,\"y\":60,\"width\":890,\"height\":1000,\"occupied\":false},{\"id\":1571226409,\"hash\":1571226409,\"sequence\":36,\"title\":\"Trash\",\"workspace\":0,\"maximized\":0,\"fullscreen\":false,\"above\":false,\"monitor\":0,\"on_all_workspaces\":false,\"x\":20,\"y\":60,\"width\":890,\"height\":1000,\"occupied\":false}],\"Evince\":[{\"id\":3774699460,\"hash\":3774699460,\"sequence\":186,\"title\":\"Documentations - Make Your Linux Terminal Look Amazing-1721534111358.pdf\",\"workspace\":0,\"maximized\":0,\"fullscreen\":false,\"above\":false,\"monitor\":0,\"on_all_workspaces\":false,\"x\":216,\"y\":169,\"width\":1148,\"height\":911,\"occupied\":false}],\"Gnome-terminal-preferences\":[{\"id\":2638778331,\"hash\":2638778331,\"sequence\":11,\"title\":\"Preferences – Profile “default”\",\"workspace\":2,\"maximized\":0,\"fullscreen\":false,\"above\":false,\"monitor\":0,\"on_all_workspaces\":false,\"x\":66,\"y\":40,\"width\":924,\"height\":662,\"occupied\":false},{\"id\":2150323245,\"hash\":2150323245,\"sequence\":28,\"title\":\"Preferences – Profile “default”\",\"workspace\":2,\"maximized\":0,\"fullscreen\":false,\"above\":false,\"monitor\":0,\"on_all_workspaces\":false,\"x\":20,\"y\":59,\"width\":924,\"height\":662,\"occupied\":false}],\"python3\":[{\"id\":254621174,\"hash\":254621174,\"sequence\":59,\"title\":\"GNOME Tweaks\",\"workspace\":0,\"maximized\":0,\"fullscreen\":false,\"above\":false,\"monitor\":0,\"on_all_workspaces\":false,\"x\":86,\"y\":60,\"width\":980,\"height\":1000,\"occupied\":false}],\"gnome-terminal-server\":[{\"id\":2281436136,\"hash\":2281436136,\"sequence\":3,\"title\":\"oguzhan@oguzhan-laptop: ~\",\"workspace\":2,\"maximized\":0,\"fullscreen\":false,\"above\":false,\"monitor\":0,\"on_all_workspaces\":false,\"x\":23,\"y\":60,\"width\":1874,\"height\":994,\"occupied\":false}],\"com.mattjakeman.ExtensionManager\":[{\"id\":2281436137,\"hash\":2281436137,\"sequence\":4,\"title\":\"Extension Manager\",\"workspace\":0,\"maximized\":0,\"fullscreen\":false,\"above\":false,\"monitor\":0,\"on_all_workspaces\":false,\"x\":1100,\"y\":60,\"width\":800,\"height\":1000,\"occupied\":false}],\"kitty\":[{\"id\":425019453,\"hash\":425019453,\"sequence\":17,\"title\":\"Choose a theme for kitty\",\"workspace\":2,\"maximized\":0,\"fullscreen\":false,\"above\":false,\"monitor\":0,\"on_all_workspaces\":false,\"x\":20,\"y\":59,\"width\":1088,\"height\":1001,\"occupied\":false},{\"id\":1892044021,\"hash\":1892044021,\"sequence\":3,\"title\":\"~\",\"workspace\":2,\"maximized\":0,\"fullscreen\":false,\"above\":false,\"monitor\":0,\"on_all_workspaces\":false,\"x\":1260,\"y\":59,\"width\":640,\"height\":1001,\"occupied\":false}],\"Apport-gtk\":[{\"id\":2144968305,\"hash\":2144968305,\"sequence\":2,\"title\":\"Ubuntu\",\"workspace\":0,\"maximized\":0,\"fullscreen\":false,\"above\":false,\"monitor\":0,\"on_all_workspaces\":false,\"x\":663,\"y\":59,\"width\":635,\"height\":255,\"occupied\":false}]}"
+startup-delay=2500
+sync-frequency=100
+sync-mode='RESTORE'
+
+[org/gnome/shell/extensions/tiling-assistant]
+active-window-hint-color='rgb(211,70,21)'
+last-version-installed=46
+overridden-settings={'org.gnome.mutter.edge-tiling': <false>, 'org.gnome.mutter.keybindings.toggle-tiled-left': <['<Super>Left']>, 'org.gnome.mutter.keybindings.toggle-tiled-right': <['<Super>Right']>}
+restore-window=@as []
+tile-left-half=@as []
+tile-maximize=@as []
+tile-right-half=@as []
+tiling-popup-all-workspace=false
+
+[org/gnome/shell/extensions/user-theme]
+name='Colloid-Green-Dark-Everforest'
+
+[org/gnome/shell/extensions/vitals]
+alphabetize=true
+fixed-widths=false
+hide-icons=false
+icon-style=0
+include-static-info=false
+memory-measurement=1
+menu-centered=false
+position-in-panel=2
+show-battery=false
+show-fan=false
+show-gpu=true
+show-memory=true
+show-network=true
+show-processor=true
+show-storage=true
+show-system=true
+show-temperature=true
+show-voltage=false
+use-higher-precision=false
+
+[org/gnome/shell/keybindings]
+focus-active-notification=@as []
+shift-overview-down=@as []
+shift-overview-up=@as []
+switch-to-application-1=@as []
+switch-to-application-2=@as []
+switch-to-application-3=@as []
+switch-to-application-4=@as []
+toggle-message-tray=@as []
+
+[org/gnome/shell/world-clocks]
+locations=@av []
+
+[org/gnome/shotwell/preferences/ui]
+pin-toolbar-state=false
+
+[org/gnome/shotwell/preferences/window]
+direct-height=1003
+direct-maximize=false
+direct-width=1854
+
+[org/gnome/terminal/legacy/profiles:]
+default='a2c7d0c5-f3b3-4a6f-8b8d-9a1ad2ffe621'
+list=['a2c7d0c5-f3b3-4a6f-8b8d-9a1ad2ffe621', '770d00ae-cb47-4c8a-ac5a-644f9d568e65', 'd6fbcf28-00e2-443f-a9fc-307e866e1220']
+
+[org/gnome/terminal/legacy/profiles:/:770d00ae-cb47-4c8a-ac5a-644f9d568e65]
+allow-bold=true
+background-color='#202011111B1B'
+bold-color='#96968C8C8383'
+bold-color-same-as-fg=true
+cursor-background-color='#96968C8C8383'
+cursor-colors-set=true
+cursor-foreground-color='#202011111B1B'
+font='FiraCode Nerd Font 12'
+foreground-color='#96968C8C8383'
+highlight-colors-set=false
+palette=['#202011111B1B', '#BEBE10100E0E', '#858581816262', '#EAEAA5A54949', '#42426A6A7979', '#979752522C2C', '#98989A9A9C9C', '#96968C8C8383', '#5E5E52525252', '#BEBE10100E0E', '#858581816262', '#EAEAA5A54949', '#42426A6A7979', '#979752522C2C', '#98989A9A9C9C', '#D5D5CCCCBABA']
+use-system-font=false
+use-theme-background=false
+use-theme-colors=false
+use-theme-transparency=false
+visible-name='Belafonte Night'
+
+[org/gnome/terminal/legacy/profiles:/:a2c7d0c5-f3b3-4a6f-8b8d-9a1ad2ffe621]
+allow-bold=true
+background-color='#010116162727'
+bold-color='#D6D6DEDEEBEB'
+bold-color-same-as-fg=true
+cursor-background-color='#D6D6DEDEEBEB'
+cursor-colors-set=true
+cursor-foreground-color='#010116162727'
+font='FiraCode Nerd Font 12'
+foreground-color='#D6D6DEDEEBEB'
+highlight-colors-set=false
+palette=['#010116162727', '#EFEF53535050', '#2222DADA6E6E', '#ADADDBDB6767', '#8282AAAAFFFF', '#C7C79292EAEA', '#2121C7C7A8A8', '#FFFFFFFFFFFF', '#575756565656', '#EFEF53535050', '#2222DADA6E6E', '#FFFFEBEB9595', '#8282AAAAFFFF', '#C7C79292EAEA', '#7F7FDBDBCACA', '#FFFFFFFFFFFF']
+use-system-font=false
+use-theme-background=false
+use-theme-colors=false
+use-theme-transparency=false
+visible-name='Night Owl'
+
+[org/gnome/terminal/legacy/profiles:/:b1dcc9dd-5262-4d8d-a863-c897e6d979b9]
+font='FiraCode Nerd Font 11'
+use-system-font=false
+
+[org/gnome/terminal/legacy/profiles:/:d6fbcf28-00e2-443f-a9fc-307e866e1220]
+font='FiraCode Nerd Font 12'
+use-system-font=false
+visible-name='default'
+
+[org/gtk/gtk4/settings/color-chooser]
+custom-colors=[(0.17599999904632568, 0.20800000429153442, 0.23100000619888306, 1.0), (0.17647059261798859, 0.2078431248664856, 0.23137255012989044, 1.0), (0.18799999356269836, 0.18400000035762787, 0.15299999713897705, 1.0), (0.18823529779911041, 0.18431372940540314, 0.15294118225574493, 1.0), (1.0, 0.31999999284744263, 0.31999999284744263, 1.0), (0.16099999845027924, 0.14900000393390656, 0.16500000655651093, 1.0), (0.16078431904315948, 0.14901961386203766, 0.16470588743686676, 1.0), (0.2669999897480011, 0.33700001239776611, 0.19599999487400055, 1.0)]
+selected-color=(true, 0.16078431904315948, 0.14901961386203766, 0.16470588743686676, 1.0)
+
+[org/gtk/gtk4/settings/file-chooser]
+date-format='regular'
+location-mode='path-bar'
+show-hidden=true
+sidebar-width=140
+sort-column='name'
+sort-directories-first=true
+sort-order='ascending'
+type-format='category'
+view-type='grid'
+window-size=(976, 565)
+
+[org/gtk/settings/color-chooser]
+selected-color=(true, 1.0, 1.0, 1.0, 1.0)
+
+[org/gtk/settings/file-chooser]
+date-format='regular'
+location-mode='path-bar'
+show-hidden=false
+show-size-column=true
+show-type-column=true
+sidebar-width=256
+sort-column='name'
+sort-directories-first=true
+sort-order='ascending'
+type-format='category'
+window-position=(0, 40)
+window-size=(1854, 993)

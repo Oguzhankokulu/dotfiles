@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "ccdb7b2b479c05dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b90b4094ab01d41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "226dee2c2685facc",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "School/2T-2Y/Course Schedule.canvas",
+                "viewState": {
+                  "x": 399.98874399823063,
+                  "y": -38.33246034677964,
+                  "zoom": -0.5627696504055092
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Course Schedule"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2fc7420320609dc1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "47d844acac738b52",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "3c20d9897bc70752",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "f5e11f9f2328dbf0",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "eaa1929bb188d3b3",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "74d5e6c67f45e60b",
+        "type": "leaf",
+        "state": {
+          "type": "journal-calendar",
+          "state": {},
+          "icon": "calendar-days",
+          "title": "Calendar"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "0b6467a238045969",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5bca479cc690b30b",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Genel Kanban.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "a546d354e662151e",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "288fff05f9953a14",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "226dee2c2685facc",
+  "lastOpenFiles": [
+    "School/2T-2Y/BBM234 (Computer Organization)/BBM234.md",
+    "School/2T-2Y/Course Schedule.canvas",
+    "Self Improve/Meditation Routine.md",
+    "Journals/Meditation Journals/01 - Daily/23-02-2025.md",
+    "Journals/Meditation Journals/Meditation Template.md",
+    "Journals/Meditation Journals/01 - Daily",
+    "Journals/Meditation Journals",
+    "Journals/Dream Journals/01 - Daily/24-02-2025.md",
+    "Dream Journals/01 - Daily/23-02-2025.md",
+    "Dream Journals/01 - Daily",
+    "Dream Journals",
+    "Journals",
+    "Self Improve/Video List.md",
+    "Formatting/Obsidian Basic Formatting.md",
+    "Self Improve/Quotes.md",
+    "Self Improve",
+    "CV.pdf",
+    "Roadmap.canvas",
+    "Journals/Dream Journals/01 - Daily/22-02-2025.md",
+    "Journals/Dream Journals/Dream Template.md",
+    "Genel Kanban.md",
+    "School/2T-2Y/BBM234 (Computer Organization)",
+    "Journals/Dream Journals/01 - Daily/17-02-2025.md",
+    "Journals/Dream Journals/01 - Daily",
+    "Journals/Dream Journals",
+    "School/2T-2Y/Course Schedule.md",
+    "Formatting/Callouts.md"
+  ]
+}

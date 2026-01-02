@@ -1,0 +1,30 @@
+{
+  "collapse-filter": true,
+  "search": "-path:\"Daily Notes\" -tag:#yearly_note -tag:#weekly_note -tag:#daily_note  -tag:#monthly_note  ",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#Formatting  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -1,
+  "nodeSizeMultiplier": 1.00155925155925,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.387733887733888,
+  "repelStrength": 9.5010395010395,
+  "linkStrength": 1,
+  "linkDistance": 179,
+  "scale": 1.4189280807159848,
+  "close": true
+}
